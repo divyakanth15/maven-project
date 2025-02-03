@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2><%= "Hello andrapradesh!" %></h2>
+<h2><%= "Hello all!" %></h2>
 </body>
 </html>
